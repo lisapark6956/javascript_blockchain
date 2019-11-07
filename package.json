@@ -1,0 +1,16 @@
+{
+  "name": "javascript_blockchain",
+  "version": "1.0.0",
+  "description": "Learning Typescript by making a Blockchain with it",
+  "main": "index.js",
+  "repository": "https://github.com/lisapark6956/javascript_blockchain",
+  "author": "lisapark6956 <pje2320@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
